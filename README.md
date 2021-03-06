@@ -2,12 +2,12 @@
 
 ### Hello | Willkommen | Salvete
 
-I am a computer science graduate student at SUNY New Paltz.
-Besides being a history and math nerd, I enjoy web development and java software programming!
+I am an IBMer in z/OS Security Client Support based in Poughkeepsie, NY.
+I studied computer science, math, and history at SUNY New Paltz.
+Besides being an ancient history nerd, I enjoy web development on the side!
 
 :telescope: I am currently working on...
-- advance data structures such as AVL Trees in my Java programming class
-- principles of an e-business website on a PHP server
+- A web scraper to scrape local pdf files for database maintenance.
 
 :octocat: Website: Please check out my [portfolio website](https://oriordac.github.io/portfolio-site/).
 
